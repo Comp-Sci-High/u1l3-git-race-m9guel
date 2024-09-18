@@ -8,6 +8,6 @@ console.log("Goldfisb")
 // Stage and commit this change with an appropriate message
 // Task 3
 // Print your favorite artist
-
+console.log("lil peep")
 // Stage and commit this change with an appropriate message
 // Go to more.js
